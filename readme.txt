@@ -1,3 +1,3 @@
 Nama : Valine
 NIM : 71251188
-Prodi :
+Prodi : Infor
